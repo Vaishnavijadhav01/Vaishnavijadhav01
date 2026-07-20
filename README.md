@@ -7,6 +7,9 @@
 ## 📊 GitHub Streak
 ![](https://streak-stats.demolab.com/?user=Vaishnavijadhav01&theme=tokyonight)
 
+## Contribution Snake
+![Snake animation](https://github.com/Vaishnavijadhav01/Vaishnavijadhav01/blob/output/github-contribution-grid-snake.svg)
+
 <h3 align="center">
 🚀 Turning coffee into code | 💻 Java Full Stack Dev in the making | 🧠 DSA Grind Never Stops
 </h3>
