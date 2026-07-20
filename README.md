@@ -19,7 +19,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/Vaishnavijadhav01/Vaishnavijadhav01/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Vaishnavijadhav01/Vaishnavijadhav01/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 <h3 align="center">
