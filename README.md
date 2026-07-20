@@ -16,6 +16,12 @@
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Vaishnavijadhav01&theme=tokyo-night)
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Vaishnavijadhav01/Vaishnavijadhav01/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
+
 <h3 align="center">
 🚀 Turning coffee into code | 💻 Java Full Stack Dev in the making | 🧠 DSA Grind Never Stops
 </h3>
