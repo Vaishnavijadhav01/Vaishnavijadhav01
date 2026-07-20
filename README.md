@@ -4,11 +4,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,python,html,css,js,react,nodejs,express,spring,mysql,git,github,vscode,eclipse,postman,tailwind)](https://skillicons.dev)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaishnavijadhav01&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+## 📊 GitHub Streak
+![](https://streak-stats.demolab.com/?user=Vaishnavijadhav01&theme=tokyonight)
 
 <h3 align="center">
 🚀 Turning coffee into code | 💻 Java Full Stack Dev in the making | 🧠 DSA Grind Never Stops
