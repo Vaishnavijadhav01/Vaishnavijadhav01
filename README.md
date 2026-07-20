@@ -1,4 +1,12 @@
-<h1 align="center">HELLO Y`all, I'm Vaishnavi Jadhav</h1>
+<h1 align="center">HELLO Y'all!! I'm Vaishnavi Jadhav</h1>
+
+💻 Software Engineer • AI Enthusiast • LLM Explorer
+
+Building intelligent applications powered by
+🧠 Large Language Models (LLMs)
+🤖 Agentic AI
+⚡ Retrieval-Augmented Generation (RAG)
+🔗 AI Automation & Autonomous Workflows
 
 ## 💻 Tech Stack
 
@@ -22,11 +30,4 @@
   <img src="https://raw.githubusercontent.com/Vaishnavijadhav01/Vaishnavijadhav01/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
-<h3 align="center">
-🚀 Turning coffee into code | 💻 Java Full Stack Dev in the making | 🧠 DSA Grind Never Stops
-</h3>
 
-✨ Building projects that solve real problems, one commit at a time.<br>
-🎯 Chasing clean code, consistent growth, and that dream Software Engineer role.<br>
-🌱 Currently learning Java, Spring Boot, React, and leveling up every single day.<br>
-⚡ Motto: Learn. Build. Break. Fix. Repeat.
