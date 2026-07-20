@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Vaishnavi Jadhav</h1>
+<h1 align="center">HELLO Y`all, I'm Vaishnavi Jadhav</h1>
 
 ## 💻 Tech Stack
 
