@@ -1,3 +1,5 @@
+## 💻 Tech Stack
+
 # Hi 👋 I'm Vaishnavi Jadhav
 
 🎓 Final Year Information Technology Student
