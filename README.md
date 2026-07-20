@@ -12,6 +12,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Developer;Full+Stack+Developer;Problem+Solver;DSA+Enthusiast;Open+Source+Contributor"/>
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/VaishnaviJadhav723)
+
 <h3 align="center">
 🚀 Turning coffee into code | 💻 Java Full Stack Dev in the making | 🧠 DSA Grind Never Stops
 </h3>
