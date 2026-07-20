@@ -1,12 +1,17 @@
 <h1 align="center">HELLO Y'all!! I'm Vaishnavi Jadhav</h1>
 
-💻 Software Engineer • AI Enthusiast • LLM Explorer
+💻 Software Engineer    • AI Enthusiast    • LLM Explorer
 
-Building intelligent applications powered by
-🧠 Large Language Models (LLMs)
-🤖 Agentic AI
-⚡ Retrieval-Augmented Generation (RAG)
-🔗 AI Automation & Autonomous Workflows
+<p align="center">
+
+ Building intelligent applications powered by : <br>
+🧠 Large Language Models (LLMs) <br>
+🤖 Agentic AI <br>
+⚡ Retrieval-Augmented Generation (RAG) <br>
+🔗 AI Automation <br>
+🤖 Autonomous Workflows
+
+</p>
 
 ## 💻 Tech Stack
 
