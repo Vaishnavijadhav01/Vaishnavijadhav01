@@ -6,9 +6,8 @@
 
 ## 📊 GitHub Stats
 
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaishnavijadhav01&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Vaishnavijadhav01&show_icons=true&theme=tokyonight" />
 </p>
 
 <h3 align="center">
