@@ -14,6 +14,8 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/VaishnaviJadhav723)
 
+![](https://github-readme-activity-graph.vercel.app/graph?username=Vaishnavijadhav01&theme=tokyo-night)
+
 <h3 align="center">
 🚀 Turning coffee into code | 💻 Java Full Stack Dev in the making | 🧠 DSA Grind Never Stops
 </h3>
